@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Adaptimmune is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.adaptimmune.com/
+Adaptimmune is a clinical-stage biopharmaceutical company focused on the development of novel cancer immunotherapy products for cancer patients. The company leverages its proprietary TCR platform to engineer T cells that can recognize and target a broad range of tumor antigens, aiming to provide transformative treatments across multiple cancer indications. Adaptimmune collaborates with academic, biotech, and pharmaceutical partners to advance its pipeline through preclinical and clinical development, emphasizing safety, efficacy, and innovative manufacturing processes.
+
+**Areas:** Company · Biopharma · Immunotherapy · TCR · Oncology
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.adaptimmune.com/)
+- [Terms of service](https://www.adaptimmune.com/terms-of-use)
+- [Privacy policy](https://www.adaptimmune.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/adaptimmune/](https://apis.io/providers/adaptimmune/).
